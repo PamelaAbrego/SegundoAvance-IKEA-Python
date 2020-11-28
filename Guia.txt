@@ -1,4 +1,5 @@
 --GUÍA DEL PROYECTO--
+*SE DEBE CORRER EL MENÚ GENERAL*
     -MenuGeneral: El usuario escoge entre ser administrador o ser cliente.
         -MenuAdministrador: El admininstrador decide que tabla administrar.
             -MenuUsuarios.
