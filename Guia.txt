@@ -1,0 +1,22 @@
+--GUÍA DEL PROYECTO--
+    -MenuGeneral: El usuario escoge entre ser administrador o ser cliente.
+        -MenuAdministrador: El admininstrador decide que tabla administrar.
+            -MenuUsuarios.
+            -MenuProductos.
+            -MenuClases.
+            -MenuCategorias.
+            -MenuCarritos (EN CONSTRUCCIÓN).
+            -MenuFacturas.
+            -MenuEntregas.
+            -MenuExistencias.
+            -MenuSucursales (EN CONSTRUCCIÓN).
+            -MenuCiudades.
+            -MenuPaises.
+            **Cada menú de cada tabla incluye:
+                -Salir
+                -Ver todos los registros.
+                -Agregar registro.
+                -Actualizar registro.
+                -Eliminar registro.
+        -MenuCliente: 
+            EN CONSTRUCCIÓN
